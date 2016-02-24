@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calc</string>
+
+    <string name="hello_world">Здравствуй,мир!</string>
+    <string name="action_settings">Настройки</string>
+    <string name="title_activity_engenering">EngeneringActivity</string>
+    <string name="title_activity_simple">SimpleActivity</string>
+    <string name="title_activity_ingener">Проценты</string>
+    <string name="text_activity1">Математические операции</string>
+    <string name="text_activity2">Проценты</string>
+    <string name="title_activity_main">Main</string>
+    <string name="btnActTwo">Подсчет процентов</string>
+    <string name="label_enter">Введите число:</string>
+    <string name="fiftheen_percent">15 процентов</string>
+    <string name="ten_percent">10 процентов</string>
+    <string name="twenty_percent">20 процентов</string>
+    <string name="buttonenter">Нажми меня</string>
+
+
+</resources>
